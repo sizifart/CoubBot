@@ -1,0 +1,2 @@
+# CoubBot
+CoubBot App AutoClicker
